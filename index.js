@@ -256,7 +256,7 @@ const rewrite = (array) => {
 	tbl.textContent = array[2][2].length;
 };
 
-import * as Ancients from "../codejam/data/ancients.js"
-import * as Blue from "../codejam/data/mythicCards/blue/index.js"
-import * as Brown from "../codejam/data/mythicCards/brown/index.js";
-import * as Green from "../codejam/data/mythicCards/green/index.js";
+import * as Ancients from "../codeJam/data/ancients.js"
+import * as Blue from "../codeJam/data/mythicCards/blue/index.js"
+import * as Brown from "../codeJam/data/mythicCards/brown/index.js";
+import * as Green from "../codeJam/data/mythicCards/green/index.js";
